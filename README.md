@@ -7,6 +7,7 @@ I am really nervous so I try to explain so fast as I can.
 This is a password generator which I build for everyone.
 
 First of all, you can choose these two options.
+
 Options:    pin    password
 
 Please, avoid Password, passworD, paSSword, etc.

@@ -52,3 +52,7 @@ A: I think 3.9
 Q: Why do you don't use liceses?
 
 A: I am not good in english. There are so much unknown words. That is all.
+
+Q: Why don't you use other functions?
+
+A: Don't ask me. Ask the one who created the editor.

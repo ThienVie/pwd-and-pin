@@ -10,7 +10,15 @@ chzei = s.punctuation
 f = False
 
 #---------------------------
-
+def end():
+    print("")
+    print("----------------------")
+    print("")
+    print(f"Your {l} is:    passwor{pwd}")
+    print("")
+    print("----------------------")
+    print("")
+#---------------------------
 print("")
 print(f"Options:    {p}    {pss}")
 print("")
@@ -47,11 +55,7 @@ for _ in range(a):
 l = c
 
 if a <= 3:
-    print("")
-    print("----------------------")
-    print("")
-    print(f"Your {l} is: {pwd}")
-    print("")
+    end()
     print("Erm...")
     print("Can you explain why you choose 1, 2, or 3?")
     print("I really don't get it.")
@@ -66,13 +70,7 @@ elif a == 0:
     print("If today is your birthday, then I wish you a happy birthday.")
     print("")
 else:
-    print("")
-    print("----------------------")
-    print("")
-    print(f"Your {l} is: {pwd}")
-    print("")
-    print("----------------------")
-    print("")
+    end()
     print("I wish you a happy day. <3")
     print("If today is your birthday, then I wish you a happy birthday.")
     print("")

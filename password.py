@@ -31,9 +31,17 @@ if c == p:
     ch = chzah
     a = 4
 else:
-    ch = chg + chk + chzah + chzei
-    a = int(input("How long has it to be: "))
-
+    d = False
+    while d == False:
+        ch = chg + chk + chzah + chzei
+        try:
+            a = int(input("How long has it to be: "))
+            break
+        except ValueError:
+            print("")
+            print("! = ValueError")
+            print("You wrote something wrong.")
+            print("")
 for _ in range(a):
     pwd += secrets.choice(ch)
 l = c

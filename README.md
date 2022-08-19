@@ -1,12 +1,23 @@
 # pwd-and-pin
 
 Hi I am ThienViet.
+
 This is my first post in Git Hub.
 I am really nervous so I try to explain so fast as I can.
 
 This is a password generator which I build for everyone.
 
-First of all, you can choose these two options.
+Guides:
+--------------------------------
+You just need to install the package "secrets".
+
+Source or sauce:    https://pypi.org/project/secrets/
+
+Then you are finished.
+
+You just have to run this programm and then
+
+you can choose these two options.
 
 Options:    pin    password
 
@@ -24,6 +35,7 @@ This is the end of my explanation.
 I wish you a happy day. :)
 Bye.
 
+Questions:
 --------------------------------
 
 If you have some questions, there might be an answer for you. If not, you can ask me everytime you want. I will answer, if I have time for it.

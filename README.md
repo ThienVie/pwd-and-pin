@@ -30,7 +30,7 @@ But if you choose password,
 you have the option to choose the length of the password.
 After that it will show "Your password is: {random uppercase, lowercase, digits and punctaution} "
 
-I know I can do it better, if I type `try` but I will do it later.
+I know I can do it better like typing the `try` function, but I will do it later.
 
 This is the end of my explanation.
 

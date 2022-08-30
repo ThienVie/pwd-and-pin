@@ -3,7 +3,7 @@
 Hi I am ThienViet.
 
 This is my first post in Git Hub.
-I am really nervous so I try to explain so fast as I can.
+I am really nervous so I try to explain so good as I can.
 
 This is a password generator which I build for everyone.
 

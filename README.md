@@ -1,9 +1,6 @@
 # pwd-and-pin
 
-Hi I am ThienViet.
-
-This is my first post in Git Hub.
-I am really nervous so I try to explain so good as I can.
+Hi I am ThienViet. This is my first post in Git Hub. I am really nervous so I try to explain so good as I can.
 
 This is a password generator which I build for everyone.
 
@@ -13,11 +10,7 @@ You just need to install the package "secrets".
 
 Source or sauce:    https://pypi.org/project/secrets/
 
-Then you are finished.
-
-You just have to run this programm and then
-
-you can choose these two options.
+Then you are finished. You just have to run this programm and then you can choose these two options.
 
 Options:    pin    password
 
@@ -26,9 +19,7 @@ Please, avoid Password, passworD, paSSword, etc.
 If you choose pin, then it will show "Your pin is: {random numbers}".
 The length of the numbers is automaticly four.
 
-But if you choose password,
-you have the option to choose the length of the password.
-After that it will show "Your password is: {random uppercase, lowercase, digits and punctaution} "
+But if you choose password, you have the option to choose the length of the password. After that it will show "Your password is: {random uppercase, lowercase, digits and punctaution} "
 
 I know I can do it better like typing the `try` function, but I will do it later.
 

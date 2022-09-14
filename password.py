@@ -14,7 +14,7 @@ def end():
     print("")
     print("----------------------")
     print("")
-    print(f"Your {l} is:    passwor{pwd}")
+    print(f"Your {l} is:    {pwd}")
     print("")
     print("----------------------")
     print("")

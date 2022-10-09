@@ -14,7 +14,7 @@ def end():
     print("")
     print("----------------------")
     print("")
-    print(f"Your {l} is:    passwor{pwd}")
+    print(f"Your {l} is:    {pwd}")
     print("")
     print("----------------------")
     print("")
@@ -55,12 +55,12 @@ for _ in range(a):
 l = c
 
 if a <= 3:
-    end()
     print("Erm...")
     print("Can you explain why you choose 1, 2, or 3?")
     print("I really don't get it.")
     print("but still I wish you a happy day. <3")
     print("")
+    end()
 elif a == 0:
     print("")
     print("----------------------")
@@ -69,8 +69,8 @@ elif a == 0:
     print("but still I wish you a happy day. <3")
     print("If today is your birthday, then I wish you a happy birthday.")
     print("")
-else:
     end()
-    print("I wish you a happy day. <3")
-    print("If today is your birthday, then I wish you a happy birthday.")
-    print("")
+
+else:
+    print()
+    end()

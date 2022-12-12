@@ -54,6 +54,6 @@ Q: Which python version does it work?
 A: I think 3.9
 
 
-Q: Why do you don't use liceses?
+Q: Why don't you use liceses?
 
 A: I am not good in english. There are so much unknown words. That is all.

@@ -13,8 +13,6 @@ def end():
     print("")
     print("----------------------")
     print("")
-    print(f"Your E-Mail is:      {E}")
-    print("")
     print(f"Your password is:    {pwd}-{hallo}-{sub}")
     print("")
     print("----------------------")

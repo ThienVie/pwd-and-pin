@@ -6,8 +6,7 @@ chk = s.ascii_lowercase
 chzah = s.digits
 chzei = s.punctuation
 f = False
-
-E = input("What is your E-Mail:  ")
+print("I don't know if it  is randomly or not, but here it is.")
 #---------------------------
 def end():
     print("")

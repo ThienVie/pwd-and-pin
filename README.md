@@ -1,12 +1,12 @@
 # pwd-and-pin
 
-Hi I am ThienViet. This is my first post in Git Hub. I am really nervous so I try to explain so good as I can.
+Hi I am ThienViet. This is my first post in GitHub. I am really nervous so I try to explain so good as I can.
 
 This is a password generator which I build for everyone.
 
 Guides:
 --------------------------------
-You just need to install the package "secrets".
+You just need to install the package "[secrets](https://pypi.org/project/secrets/)".
 
 Source or sauce:    https://pypi.org/project/secrets/
 
@@ -54,6 +54,6 @@ Q: Which python version does it work?
 A: I think 3.9
 
 
-Q: Why do you don't use liceses?
+Q: Why don't you use liceses?
 
 A: I am not good in english. There are so much unknown words. That is all.

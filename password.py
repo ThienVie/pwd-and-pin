@@ -14,7 +14,7 @@ def end():
     print("")
     print("----------------------")
     print("")
-    print(f"Your {l} is:    {pwd}")
+    print(f"Your {c} is:    {pwd}")
     print("")
     print("----------------------")
     print("")
@@ -52,8 +52,7 @@ else:
             print("")
 for _ in range(a):
     pwd += secrets.choice(ch)
-l = c
-
+    
 if a <= 3:
     print("Erm...")
     print("Can you explain why you choose 1, 2, or 3?")

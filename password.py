@@ -70,13 +70,7 @@ elif a == 0:
     print("If today is your birthday, then I wish you a happy birthday.")
     print("")
     end()
-<<<<<<< HEAD
 
 else:
     print()
     end()
-=======
-    print("I wish you a happy day. <3")
-    print("If today is your birthday, then I wish you a happy birthday.")
-    print("")
->>>>>>> 884012717c8db5f8da9f4dd22c02e8578e1a7dec

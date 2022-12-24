@@ -6,20 +6,28 @@ This is a password generator which I build for everyone.
 
 Guides:
 --------------------------------
-You just need to install the package "[secrets](https://pypi.org/project/secrets/)".
+1. You just need to install the package "[secrets](https://pypi.org/project/secrets/)".
 
 Source or sauce:    https://pypi.org/project/secrets/
 
-Then you are finished. You just have to run this programm and then you can choose these two options.
+2. Run this option
 
-Options:    pin    password
+3. Choose one of these options:    pin    password
 
-Please, avoid Password, passworD, paSSword, etc.
+Please, **avoid Password, passworD, paSSword, etc.**
 
-If you choose pin, then it will show "Your pin is: {random numbers}".
-The length of the numbers is automaticly four.
+* pin: it will show "Your pin is: {random numbers}". The length of the numbers is automaticly four.
 
-But if you choose password, you have the option to choose the length of the password. After that it will show "Your password is: {random uppercase, lowercase, digits and punctaution} "
+* password, you have the option to choose the length of the password. After that it will show
+
+```
+Your password is: {random uppercase, lowercase, digits and punctaution}
+```
+-------------------------------
+
+**I am editing...**
+
+
 
 I know I can do it better like typing the `try` function, but I will do it later.
 

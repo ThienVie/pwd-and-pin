@@ -25,10 +25,6 @@ Your password is: {random uppercase, lowercase, digits and punctaution}
 ```
 -------------------------------
 
-**I am editing...**
-
-
-
 I know I can do it better like typing the `try` function, but I will do it later.
 
 This is the end of my explanation.

@@ -6,14 +6,11 @@ chk = s.ascii_lowercase
 chzah = s.digits
 chzei = s.punctuation
 f = False
-
-E = input("What is your E-Mail:  ")
+print("I don't know if it  is randomly or not, but here it is.")
 #---------------------------
 def end():
     print("")
     print("----------------------")
-    print("")
-    print(f"Your E-Mail is:      {E}")
     print("")
     print(f"Your password is:    {pwd}-{hallo}-{sub}")
     print("")

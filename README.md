@@ -14,7 +14,7 @@ Source or sauce:    https://pypi.org/project/secrets/
 
 3. Choose one of these options:    pin    password
 
-Please, __**avoid Password, passworD, paSSword, etc.**__
+Please, **avoid Password, passworD, paSSword, etc.**
 
 * pin:      It will show "Your pin is: {random numbers}". The length of the numbers is automaticly four.
 
